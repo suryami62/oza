@@ -58,7 +58,7 @@ module.exports = async function createConfigAsync() {
             title: 'Tentang',
             items: [
               {
-                html: '<a href="" target="_blank" rel="noreferrer noopener" aria-label="Logo OZA"> <img src="img/logo.svg" alt="Logo OZA" width="65" /> </a>',
+                html: '<a href="" target="_blank" rel="noreferrer noopener" aria-label="Logo OZA"> <img src="https://oza.suryami62.my.id/img/logo.svg" alt="Logo OZA" width="65" /> </a>',
               },
             ],
           },
@@ -75,10 +75,10 @@ module.exports = async function createConfigAsync() {
             title: 'Di Dukung Oleh',
             items: [
               {
-                html: '<a href="https://www.cloudflare.com" target="_blank" rel="noreferrer noopener" aria-label="Diluncurkan oleh Cloudflare"> <img src="img/cf_logo.svg" alt="Diluncurkan oleh Cloudflare" width="120" /> </a>',
+                html: '<a href="https://www.cloudflare.com" target="_blank" rel="noreferrer noopener" aria-label="Diluncurkan oleh Cloudflare"> <img src="https://oza.suryami62.my.id/img/cf_logo.svg" alt="Diluncurkan oleh Cloudflare" width="120" /> </a>',
               },
               {
-                html: '<a href="https://docusaurus.io" target="_blank" rel="noreferrer noopener" aria-label="Dikembangkan dengan Docusaurus"> <img src="img/ds_logo.svg" alt="Dikembangkan dengan Docusaurus" width="65" /> </a>',
+                html: '<a href="https://docusaurus.io" target="_blank" rel="noreferrer noopener" aria-label="Dikembangkan dengan Docusaurus"> <img src="https://oza.suryami62.my.id/img/ds_logo.svg" alt="Dikembangkan dengan Docusaurus" width="65" /> </a>',
               },
             ],
           },
