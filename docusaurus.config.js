@@ -66,8 +66,8 @@ module.exports = async function createConfigAsync() {
             title: 'Kontak',
             items: [
               {
-                label: 'Email',
-                href: 'mailto:suryami62@protonmail.com',
+                label: 'kontak@suryami62.my.id',
+                href: 'mailto:kontak@suryami62.my.id',
               },
             ],
           },
@@ -113,24 +113,11 @@ module.exports = async function createConfigAsync() {
         'content-docs',
         /** @type {import('@docusaurus/plugin-content-docs').Options} */
         {
-          id: 'panel-surya',
-          path: 'panel-surya',
-          routeBasePath: 'panel-surya',
-          sidebarPath: require.resolve('./sidebarsPanel-surya.js'),
+          id: 'alatPeraga',
+          path: 'alat-peraga/pendahuluan',
+          routeBasePath: 'alat-peraga',
+          sidebarPath: require.resolve('./sidebarsAlat-peraga.js'),
         },
-      ],
-      [
-        'client-redirects',
-        /** @type {import('@docusaurus/plugin-client-redirects').Options} */
-        ({
-          fromExtensions: ['html'],
-          createRedirects(routePath) {
-            if (routePath === '/panel-surya' || routePath === '/panel-surya/') {
-              return [`${routePath}/intro`];
-            }
-            return [];
-          },
-        }),
       ],
     ],
   }

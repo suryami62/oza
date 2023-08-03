@@ -13,7 +13,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Alat Peraga Energi Surya',
     Svg: require('@site/src/components/HomepageFeatures/img/panel.svg').default,
-    url: '/panel-surya/intro',
+    url: '/alat-peraga/',
   },
   {
     title: 'Segera',
