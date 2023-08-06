@@ -1,11 +1,11 @@
 ---
 sidebar_label: Alat Peraga Energi Surya
-sidebar_position: 1
 slug: /
-title: Alat Peraga Energi Surya
 ---
 
 # Alat Peraga Energi Surya
+
+---
 
 ![Rangkaian Panel Surya](./ranut.jpg)
 
