@@ -113,9 +113,9 @@ module.exports = async function createConfigAsync() {
         "content-docs",
         /** @type {import('@docusaurus/plugin-content-docs').Options} */
         {
-          id: "alatPeraga",
-          path: "alat-peraga/pendahuluan",
-          routeBasePath: "alat-peraga",
+          id: "sumberEnergi",
+          path: "sumber-energi/",
+          routeBasePath: "sumber-energi",
           sidebarPath: require.resolve("./sidebarsAlat-peraga.js"),
         },
       ],
