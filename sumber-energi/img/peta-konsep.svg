@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.2"
-   width="150mm"
+   width="1030"
    id="svg423"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   viewBox="0 0 15000 15000"
-   height="150mm"
+   viewBox="0 0 27252.083 27252.083"
+   height="1030"
    sodipodi:docname="peta-konsep.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -13,8 +13,8 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      inkscape:zoom="0.47749719"
-     inkscape:cx="14.659772"
-     inkscape:cy="352.88166"
+     inkscape:cx="306.80809"
+     inkscape:cy="520.42191"
      inkscape:window-width="1360"
      inkscape:window-height="745"
      inkscape:window-x="-8"
@@ -28,26 +28,40 @@
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
-     showgrid="false" />
+     inkscape:document-units="px"
+     showgrid="true"
+     units="px" />
   <defs
      id="defs472">
     <clipPath
        id="clipPath466">
       <rect
          x="0"
-         id="rect464" />
+         id="rect464"
+         width="0"
+         height="0"
+         y="0" />
     </clipPath>
     <clipPath
        id="clipPath470">
       <rect
-         id="rect468" />
+         id="rect468"
+         width="0"
+         height="0"
+         x="0"
+         y="0" />
     </clipPath>
   </defs>
   <defs
      id="defs479">
     <font
-       id="font477">
+       id="font477"
+       horiz-origin-x="0"
+       horiz-origin-y="0"
+       horiz-adv-x="1024"
+       vert-origin-x="512"
+       vert-origin-y="768"
+       vert-adv-y="1024">
       <font-face
          font-family="Liberation Sans embedded"
          units-per-em="2048"
@@ -70,7 +84,13 @@
   <defs
      id="defs516">
     <font
-       id="font514">
+       id="font514"
+       horiz-origin-x="0"
+       horiz-origin-y="0"
+       horiz-adv-x="1024"
+       vert-origin-x="512"
+       vert-origin-y="768"
+       vert-adv-y="1024">
       <font-face
          font-family="Liberation Sans embedded"
          units-per-em="2048"
@@ -242,7 +262,13 @@
   <defs
      id="defs111">
     <font
-       id="font529">
+       id="font529"
+       horiz-origin-x="0"
+       horiz-origin-y="0"
+       horiz-adv-x="1024"
+       vert-origin-x="512"
+       vert-origin-y="768"
+       vert-adv-y="1024">
       <font-face
          font-family="Liberation Serif embedded"
          units-per-em="2048"
@@ -369,523 +395,527 @@
     </g>
   </defs>
   <g
-     class="com.sun.star.drawing.ConnectorShape"
-     id="g413"
-     transform="translate(-3000.2501,-7350.5001)">
+     id="g394"
+     transform="matrix(1.8567884,0,0,1.8567884,-299.87131,-299.87114)">
     <g
-       id="id19">
-      <rect
-         class="BoundingBox"
-         stroke="none"
-         fill="none"
-         x="10325"
-         y="17800"
-         width="104"
-         height="851"
-         id="rect408" />
-      <path
-         fill="none"
-         stroke="#8db87c"
-         stroke-width="100"
-         stroke-linejoin="round"
-         d="m 10375,18600 v -750 h 3 v 18"
-         id="path410" />
+       class="com.sun.star.drawing.ConnectorShape"
+       id="g413"
+       transform="translate(-3000.2501,-7350.5001)">
+      <g
+         id="id19">
+        <rect
+           class="BoundingBox"
+           stroke="none"
+           fill="none"
+           x="10325"
+           y="17800"
+           width="104"
+           height="851"
+           id="rect408" />
+        <path
+           fill="none"
+           stroke="#8db87c"
+           stroke-width="100"
+           stroke-linejoin="round"
+           d="m 10375,18600 v -750 h 3 v 18"
+           id="path410" />
+      </g>
     </g>
-  </g>
-  <g
-     class="com.sun.star.drawing.ConnectorShape"
-     id="g406"
-     transform="translate(-3000.2501,-7350.5001)">
     <g
-       id="id18">
-      <rect
-         class="BoundingBox"
-         stroke="none"
-         fill="none"
-         x="6700"
-         y="16050"
-         width="3726"
-         height="2601"
-         id="rect401" />
-      <path
-         fill="none"
-         stroke="#f5d769"
-         stroke-width="100"
-         stroke-linejoin="round"
-         d="m 6750,16100 v 1750 h 3625 v 750"
-         id="path403" />
+       class="com.sun.star.drawing.ConnectorShape"
+       id="g406"
+       transform="translate(-3000.2501,-7350.5001)">
+      <g
+         id="id18">
+        <rect
+           class="BoundingBox"
+           stroke="none"
+           fill="none"
+           x="6700"
+           y="16050"
+           width="3726"
+           height="2601"
+           id="rect401" />
+        <path
+           fill="none"
+           stroke="#f5d769"
+           stroke-width="100"
+           stroke-linejoin="round"
+           d="m 6750,16100 v 1750 h 3625 v 750"
+           id="path403" />
+      </g>
     </g>
-  </g>
-  <g
-     class="com.sun.star.drawing.ConnectorShape"
-     id="g399"
-     transform="translate(-3000.2501,-7350.5001)">
     <g
-       id="id17">
-      <rect
-         class="BoundingBox"
-         stroke="none"
-         fill="none"
-         x="10325"
-         y="17050"
-         width="3976"
-         height="1601"
-         id="rect394" />
-      <path
-         fill="none"
-         stroke="#d4e8c1"
-         stroke-width="100"
-         stroke-linejoin="round"
-         d="m 14250,17100 v 750 h -3875 v 750"
-         id="path396" />
+       class="com.sun.star.drawing.ConnectorShape"
+       id="g399"
+       transform="translate(-3000.2501,-7350.5001)">
+      <g
+         id="id17">
+        <rect
+           class="BoundingBox"
+           stroke="none"
+           fill="none"
+           x="10325"
+           y="17050"
+           width="3976"
+           height="1601"
+           id="rect394" />
+        <path
+           fill="none"
+           stroke="#d4e8c1"
+           stroke-width="100"
+           stroke-linejoin="round"
+           d="m 14250,17100 v 750 h -3875 v 750"
+           id="path396" />
+      </g>
     </g>
-  </g>
-  <g
-     class="com.sun.star.drawing.ConnectorShape"
-     id="g392"
-     transform="translate(-3000.2501,-7350.5001)">
     <g
-       id="id16">
-      <rect
-         class="BoundingBox"
-         stroke="none"
-         fill="none"
-         x="14200"
-         y="12550"
-         width="101"
-         height="1101"
-         id="rect387" />
-      <path
-         fill="none"
-         stroke="#828277"
-         stroke-width="100"
-         stroke-linejoin="round"
-         d="m 14250,12600 v 1000"
-         id="path389" />
+       class="com.sun.star.drawing.ConnectorShape"
+       id="g392"
+       transform="translate(-3000.2501,-7350.5001)">
+      <g
+         id="id16">
+        <rect
+           class="BoundingBox"
+           stroke="none"
+           fill="none"
+           x="14200"
+           y="12550"
+           width="101"
+           height="1101"
+           id="rect387" />
+        <path
+           fill="none"
+           stroke="#828277"
+           stroke-width="100"
+           stroke-linejoin="round"
+           d="m 14250,12600 v 1000"
+           id="path389" />
+      </g>
     </g>
-  </g>
-  <g
-     class="com.sun.star.drawing.ConnectorShape"
-     id="g385"
-     transform="translate(-3000.2501,-7350.5001)">
     <g
-       id="id15">
-      <rect
-         class="BoundingBox"
-         stroke="none"
-         fill="none"
-         x="6700"
-         y="12550"
-         width="101"
-         height="1101"
-         id="rect380" />
-      <path
-         fill="none"
-         stroke="#ed8a3f"
-         stroke-width="100"
-         stroke-linejoin="round"
-         d="m 6750,12600 v 1000"
-         id="path382" />
+       class="com.sun.star.drawing.ConnectorShape"
+       id="g385"
+       transform="translate(-3000.2501,-7350.5001)">
+      <g
+         id="id15">
+        <rect
+           class="BoundingBox"
+           stroke="none"
+           fill="none"
+           x="6700"
+           y="12550"
+           width="101"
+           height="1101"
+           id="rect380" />
+        <path
+           fill="none"
+           stroke="#ed8a3f"
+           stroke-width="100"
+           stroke-linejoin="round"
+           d="m 6750,12600 v 1000"
+           id="path382" />
+      </g>
     </g>
-  </g>
-  <g
-     class="com.sun.star.drawing.ConnectorShape"
-     id="g378"
-     transform="translate(-3000.2501,-7350.5001)">
     <g
-       id="id14">
-      <rect
-         class="BoundingBox"
-         stroke="none"
-         fill="none"
-         x="10450"
-         y="9550"
-         width="3851"
-         height="1601"
-         id="rect373" />
-      <path
-         fill="none"
-         stroke="#8db87c"
-         stroke-width="100"
-         stroke-linejoin="round"
-         d="m 10500,9600 v 750 h 3750 v 750"
-         id="path375" />
+       class="com.sun.star.drawing.ConnectorShape"
+       id="g378"
+       transform="translate(-3000.2501,-7350.5001)">
+      <g
+         id="id14">
+        <rect
+           class="BoundingBox"
+           stroke="none"
+           fill="none"
+           x="10450"
+           y="9550"
+           width="3851"
+           height="1601"
+           id="rect373" />
+        <path
+           fill="none"
+           stroke="#8db87c"
+           stroke-width="100"
+           stroke-linejoin="round"
+           d="m 10500,9600 v 750 h 3750 v 750"
+           id="path375" />
+      </g>
     </g>
-  </g>
-  <g
-     class="com.sun.star.drawing.ConnectorShape"
-     id="g371"
-     transform="translate(-3000.2501,-7350.5001)">
     <g
-       id="id13">
-      <rect
-         class="BoundingBox"
-         stroke="none"
-         fill="none"
-         x="6700"
-         y="9550"
-         width="3851"
-         height="1601"
-         id="rect366" />
-      <path
-         fill="none"
-         stroke="#8db87c"
-         stroke-width="100"
-         stroke-linejoin="round"
-         d="m 10500,9600 v 750 H 6750 v 750"
-         id="path368" />
+       class="com.sun.star.drawing.ConnectorShape"
+       id="g371"
+       transform="translate(-3000.2501,-7350.5001)">
+      <g
+         id="id13">
+        <rect
+           class="BoundingBox"
+           stroke="none"
+           fill="none"
+           x="6700"
+           y="9550"
+           width="3851"
+           height="1601"
+           id="rect366" />
+        <path
+           fill="none"
+           stroke="#8db87c"
+           stroke-width="100"
+           stroke-linejoin="round"
+           d="m 10500,9600 v 750 H 6750 v 750"
+           id="path368" />
+      </g>
     </g>
-  </g>
-  <g
-     class="com.sun.star.drawing.CustomShape"
-     id="g364"
-     transform="translate(-3000.2501,-7350.5001)">
     <g
-       id="id12">
-      <rect
-         class="BoundingBox"
-         stroke="none"
-         fill="none"
-         x="4412"
-         y="13512"
-         width="4677"
-         height="2677"
-         id="rect339" />
-      <path
-         fill="none"
-         stroke="#f5d769"
-         stroke-width="176"
-         stroke-linejoin="round"
-         d="M 6750,16100 H 4500 v -2500 h 4500 v 2500 z"
-         id="path341" />
-      <text
-         class="SVGTextShape"
-         id="text361"><tspan
-           class="TextParagraph"
-           font-family="'Liberation Sans', sans-serif"
-           font-size="635px"
-           font-weight="700"
-           id="tspan347"><tspan
-             class="TextPosition"
-             x="5287"
-             y="14359"
-             id="tspan345"><tspan
-               fill="#f5d769"
-               stroke="none"
-               style="white-space:pre"
-               id="tspan343">Batu bara</tspan></tspan></tspan><tspan
-           class="TextParagraph"
-           font-family="'Liberation Sans', sans-serif"
-           font-size="635px"
-           font-weight="700"
-           id="tspan353"><tspan
-             class="TextPosition"
-             x="4825"
-             y="15070"
-             id="tspan351"><tspan
-               fill="#f5d769"
-               stroke="none"
-               style="white-space:pre"
-               id="tspan349">Minyak bumi</tspan></tspan></tspan><tspan
-           class="TextParagraph"
-           font-family="'Liberation Sans', sans-serif"
-           font-size="635px"
-           font-weight="700"
-           id="tspan359"><tspan
-             class="TextPosition"
-             x="5340"
-             y="15781"
-             id="tspan357"><tspan
-               fill="#f5d769"
-               stroke="none"
-               style="white-space:pre"
-               id="tspan355">Gas alam</tspan></tspan></tspan></text>
+       class="com.sun.star.drawing.CustomShape"
+       id="g364"
+       transform="translate(-3000.2501,-7350.5001)">
+      <g
+         id="id12">
+        <rect
+           class="BoundingBox"
+           stroke="none"
+           fill="none"
+           x="4412"
+           y="13512"
+           width="4677"
+           height="2677"
+           id="rect339" />
+        <path
+           fill="none"
+           stroke="#f5d769"
+           stroke-width="176"
+           stroke-linejoin="round"
+           d="M 6750,16100 H 4500 v -2500 h 4500 v 2500 z"
+           id="path341" />
+        <text
+           class="SVGTextShape"
+           id="text361"><tspan
+             class="TextParagraph"
+             font-family="'Liberation Sans', sans-serif"
+             font-size="635px"
+             font-weight="700"
+             id="tspan347"><tspan
+               class="TextPosition"
+               x="5287"
+               y="14359"
+               id="tspan345"><tspan
+                 fill="#f5d769"
+                 stroke="none"
+                 style="white-space:pre"
+                 id="tspan343">Batu bara</tspan></tspan></tspan><tspan
+             class="TextParagraph"
+             font-family="'Liberation Sans', sans-serif"
+             font-size="635px"
+             font-weight="700"
+             id="tspan353"><tspan
+               class="TextPosition"
+               x="4825"
+               y="15070"
+               id="tspan351"><tspan
+                 fill="#f5d769"
+                 stroke="none"
+                 style="white-space:pre"
+                 id="tspan349">Minyak bumi</tspan></tspan></tspan><tspan
+             class="TextParagraph"
+             font-family="'Liberation Sans', sans-serif"
+             font-size="635px"
+             font-weight="700"
+             id="tspan359"><tspan
+               class="TextPosition"
+               x="5340"
+               y="15781"
+               id="tspan357"><tspan
+                 fill="#f5d769"
+                 stroke="none"
+                 style="white-space:pre"
+                 id="tspan355">Gas alam</tspan></tspan></tspan></text>
+      </g>
     </g>
-  </g>
-  <g
-     class="com.sun.star.drawing.CustomShape"
-     id="g337"
-     transform="translate(-3000.2501,-7350.5001)">
     <g
-       id="id11">
-      <rect
-         class="BoundingBox"
-         stroke="none"
-         fill="none"
-         x="11912"
-         y="13512"
-         width="4677"
-         height="3677"
-         id="rect306" />
-      <path
-         fill="none"
-         stroke="#d4e8c1"
-         stroke-width="176"
-         stroke-linejoin="round"
-         d="m 14250,17100 h -2250 v -3500 h 4500 v 3500 z"
-         id="path308" />
-      <text
-         class="SVGTextShape"
-         id="text334"><tspan
-           class="TextParagraph"
-           font-family="'Liberation Sans', sans-serif"
-           font-size="635px"
-           font-weight="700"
-           id="tspan314"><tspan
-             class="TextPosition"
-             x="13369"
-             y="14504"
-             id="tspan312"><tspan
-               fill="#d4e8c1"
-               stroke="none"
-               style="white-space:pre"
-               id="tspan310">Surya</tspan></tspan></tspan><tspan
-           class="TextParagraph"
-           font-family="'Liberation Sans', sans-serif"
-           font-size="635px"
-           font-weight="700"
-           id="tspan320"><tspan
-             class="TextPosition"
-             x="12467"
-             y="15215"
-             id="tspan318"><tspan
-               fill="#d4e8c1"
-               stroke="none"
-               style="white-space:pre"
-               id="tspan316">Panas bumi</tspan></tspan></tspan><tspan
-           class="TextParagraph"
-           font-family="'Liberation Sans', sans-serif"
-           font-size="635px"
-           font-weight="700"
-           id="tspan326"><tspan
-             class="TextPosition"
-             x="13809"
-             y="15926"
-             id="tspan324"><tspan
-               fill="#d4e8c1"
-               stroke="none"
-               style="white-space:pre"
-               id="tspan322">Air</tspan></tspan></tspan><tspan
-           class="TextParagraph"
-           font-family="'Liberation Sans', sans-serif"
-           font-size="635px"
-           font-weight="700"
-           id="tspan332"><tspan
-             class="TextPosition"
-             x="13348"
-             y="16637"
-             id="tspan330"><tspan
-               fill="#d4e8c1"
-               stroke="none"
-               style="white-space:pre"
-               id="tspan328">Angin</tspan></tspan></tspan></text>
+       class="com.sun.star.drawing.CustomShape"
+       id="g337"
+       transform="translate(-3000.2501,-7350.5001)">
+      <g
+         id="id11">
+        <rect
+           class="BoundingBox"
+           stroke="none"
+           fill="none"
+           x="11912"
+           y="13512"
+           width="4677"
+           height="3677"
+           id="rect306" />
+        <path
+           fill="none"
+           stroke="#d4e8c1"
+           stroke-width="176"
+           stroke-linejoin="round"
+           d="m 14250,17100 h -2250 v -3500 h 4500 v 3500 z"
+           id="path308" />
+        <text
+           class="SVGTextShape"
+           id="text334"><tspan
+             class="TextParagraph"
+             font-family="'Liberation Sans', sans-serif"
+             font-size="635px"
+             font-weight="700"
+             id="tspan314"><tspan
+               class="TextPosition"
+               x="13369"
+               y="14504"
+               id="tspan312"><tspan
+                 fill="#d4e8c1"
+                 stroke="none"
+                 style="white-space:pre"
+                 id="tspan310">Surya</tspan></tspan></tspan><tspan
+             class="TextParagraph"
+             font-family="'Liberation Sans', sans-serif"
+             font-size="635px"
+             font-weight="700"
+             id="tspan320"><tspan
+               class="TextPosition"
+               x="12467"
+               y="15215"
+               id="tspan318"><tspan
+                 fill="#d4e8c1"
+                 stroke="none"
+                 style="white-space:pre"
+                 id="tspan316">Panas bumi</tspan></tspan></tspan><tspan
+             class="TextParagraph"
+             font-family="'Liberation Sans', sans-serif"
+             font-size="635px"
+             font-weight="700"
+             id="tspan326"><tspan
+               class="TextPosition"
+               x="13809"
+               y="15926"
+               id="tspan324"><tspan
+                 fill="#d4e8c1"
+                 stroke="none"
+                 style="white-space:pre"
+                 id="tspan322">Air</tspan></tspan></tspan><tspan
+             class="TextParagraph"
+             font-family="'Liberation Sans', sans-serif"
+             font-size="635px"
+             font-weight="700"
+             id="tspan332"><tspan
+               class="TextPosition"
+               x="13348"
+               y="16637"
+               id="tspan330"><tspan
+                 fill="#d4e8c1"
+                 stroke="none"
+                 style="white-space:pre"
+                 id="tspan328">Angin</tspan></tspan></tspan></text>
+      </g>
     </g>
-  </g>
-  <g
-     class="com.sun.star.drawing.CustomShape"
-     id="g304"
-     transform="translate(-3000.2501,-7350.5001)">
     <g
-       id="id10">
-      <rect
-         class="BoundingBox"
-         stroke="none"
-         fill="none"
-         x="8287"
-         y="18512"
-         width="4177"
-         height="3677"
-         id="rect273" />
-      <path
-         fill="none"
-         stroke="#8db87c"
-         stroke-width="176"
-         stroke-linejoin="round"
-         d="M 10375,22100 H 8375 v -3500 h 4000 v 3500 z"
-         id="path275" />
-      <text
-         class="SVGTextShape"
-         id="text301"><tspan
-           class="TextParagraph"
-           font-family="'Liberation Sans', sans-serif"
-           font-size="635px"
-           font-weight="700"
-           id="tspan281"><tspan
-             class="TextPosition"
-             x="9587"
-             y="19504"
-             id="tspan279"><tspan
-               fill="#8db87c"
-               stroke="none"
-               style="white-space:pre"
-               id="tspan277">PLTS</tspan></tspan></tspan><tspan
-           class="TextParagraph"
-           font-family="'Liberation Sans', sans-serif"
-           font-size="635px"
-           font-weight="700"
-           id="tspan287"><tspan
-             class="TextPosition"
-             x="9595"
-             y="20215"
-             id="tspan285"><tspan
-               fill="#8db87c"
-               stroke="none"
-               style="white-space:pre"
-               id="tspan283">PLTA</tspan></tspan></tspan><tspan
-           class="TextParagraph"
-           font-family="'Liberation Sans', sans-serif"
-           font-size="635px"
-           font-weight="700"
-           id="tspan293"><tspan
-             class="TextPosition"
-             x="9570"
-             y="20926"
-             id="tspan291"><tspan
-               fill="#8db87c"
-               stroke="none"
-               style="white-space:pre"
-               id="tspan289">PLTU</tspan></tspan></tspan><tspan
-           class="TextParagraph"
-           font-family="'Liberation Sans', sans-serif"
-           font-size="635px"
-           font-weight="700"
-           id="tspan299"><tspan
-             class="TextPosition"
-             x="9570"
-             y="21637"
-             id="tspan297"><tspan
-               fill="#8db87c"
-               stroke="none"
-               style="white-space:pre"
-               id="tspan295">PLTB</tspan></tspan></tspan></text>
+       class="com.sun.star.drawing.CustomShape"
+       id="g304"
+       transform="translate(-3000.2501,-7350.5001)">
+      <g
+         id="id10">
+        <rect
+           class="BoundingBox"
+           stroke="none"
+           fill="none"
+           x="8287"
+           y="18512"
+           width="4177"
+           height="3677"
+           id="rect273" />
+        <path
+           fill="none"
+           stroke="#8db87c"
+           stroke-width="176"
+           stroke-linejoin="round"
+           d="M 10375,22100 H 8375 v -3500 h 4000 v 3500 z"
+           id="path275" />
+        <text
+           class="SVGTextShape"
+           id="text301"><tspan
+             class="TextParagraph"
+             font-family="'Liberation Sans', sans-serif"
+             font-size="635px"
+             font-weight="700"
+             id="tspan281"><tspan
+               class="TextPosition"
+               x="9587"
+               y="19504"
+               id="tspan279"><tspan
+                 fill="#8db87c"
+                 stroke="none"
+                 style="white-space:pre"
+                 id="tspan277">PLTS</tspan></tspan></tspan><tspan
+             class="TextParagraph"
+             font-family="'Liberation Sans', sans-serif"
+             font-size="635px"
+             font-weight="700"
+             id="tspan287"><tspan
+               class="TextPosition"
+               x="9595"
+               y="20215"
+               id="tspan285"><tspan
+                 fill="#8db87c"
+                 stroke="none"
+                 style="white-space:pre"
+                 id="tspan283">PLTA</tspan></tspan></tspan><tspan
+             class="TextParagraph"
+             font-family="'Liberation Sans', sans-serif"
+             font-size="635px"
+             font-weight="700"
+             id="tspan293"><tspan
+               class="TextPosition"
+               x="9570"
+               y="20926"
+               id="tspan291"><tspan
+                 fill="#8db87c"
+                 stroke="none"
+                 style="white-space:pre"
+                 id="tspan289">PLTU</tspan></tspan></tspan><tspan
+             class="TextParagraph"
+             font-family="'Liberation Sans', sans-serif"
+             font-size="635px"
+             font-weight="700"
+             id="tspan299"><tspan
+               class="TextPosition"
+               x="9570"
+               y="21637"
+               id="tspan297"><tspan
+                 fill="#8db87c"
+                 stroke="none"
+                 style="white-space:pre"
+                 id="tspan295">PLTB</tspan></tspan></tspan></text>
+      </g>
     </g>
-  </g>
-  <g
-     class="com.sun.star.drawing.CustomShape"
-     id="g271"
-     transform="translate(-3000.2501,-7350.5001)">
     <g
-       id="id9">
-      <rect
-         class="BoundingBox"
-         stroke="none"
-         fill="none"
-         x="3911.5"
-         y="11012"
-         width="5677"
-         height="1677"
-         id="rect256" />
-      <path
-         fill="none"
-         stroke="#ed8a3f"
-         stroke-width="176"
-         stroke-linejoin="round"
-         d="M 6750,12600 H 4000 v -1500 h 5500 v 1500 z"
-         id="path258" />
-      <text
-         class="SVGTextShape"
-         id="text268"
-         x="559.50684"><tspan
-           class="TextParagraph"
-           font-family="'Liberation Sans', sans-serif"
-           font-size="635px"
-           font-weight="700"
-           id="tspan266"><tspan
-             class="TextPosition"
-             x="4669.5068"
-             y="12070"
-             id="tspan264"><tspan
-               fill="#ed8a3f"
-               stroke="none"
-               style="white-space:pre"
-               id="tspan260">Konvensional</tspan></tspan></tspan></text>
+       class="com.sun.star.drawing.CustomShape"
+       id="g271"
+       transform="translate(-3000.2501,-7350.5001)">
+      <g
+         id="id9">
+        <rect
+           class="BoundingBox"
+           stroke="none"
+           fill="none"
+           x="3911.5"
+           y="11012"
+           width="5677"
+           height="1677"
+           id="rect256" />
+        <path
+           fill="none"
+           stroke="#ed8a3f"
+           stroke-width="176"
+           stroke-linejoin="round"
+           d="M 6750,12600 H 4000 v -1500 h 5500 v 1500 z"
+           id="path258" />
+        <text
+           class="SVGTextShape"
+           id="text268"
+           x="559.50684"><tspan
+             class="TextParagraph"
+             font-family="'Liberation Sans', sans-serif"
+             font-size="635px"
+             font-weight="700"
+             id="tspan266"><tspan
+               class="TextPosition"
+               x="4669.5068"
+               y="12070"
+               id="tspan264"><tspan
+                 fill="#ed8a3f"
+                 stroke="none"
+                 style="white-space:pre"
+                 id="tspan260">Konvensional</tspan></tspan></tspan></text>
+      </g>
     </g>
-  </g>
-  <g
-     class="com.sun.star.drawing.CustomShape"
-     id="g254"
-     transform="translate(-3000.2501,-7350.5001)">
     <g
-       id="id8">
-      <rect
-         class="BoundingBox"
-         stroke="none"
-         fill="none"
-         x="11412"
-         y="11012"
-         width="5677"
-         height="1677"
-         id="rect239" />
-      <path
-         fill="none"
-         stroke="#828277"
-         stroke-width="176"
-         stroke-linejoin="round"
-         d="m 14250,12600 h -2750 v -1500 h 5500 v 1500 z"
-         id="path241" />
-      <text
-         class="SVGTextShape"
-         id="text251"><tspan
-           class="TextParagraph"
-           font-family="'Liberation Sans', sans-serif"
-           font-size="635px"
-           font-weight="700"
-           id="tspan249"><tspan
-             class="TextPosition"
-             x="12458"
-             y="12070"
-             id="tspan247"><tspan
-               fill="#828277"
-               stroke="none"
-               style="white-space:pre"
-               id="tspan243" /><tspan
-               fill="#828277"
-               stroke="none"
-               style="white-space:pre"
-               id="tspan245">Terbarukan</tspan></tspan></tspan></text>
+       class="com.sun.star.drawing.CustomShape"
+       id="g254"
+       transform="translate(-3000.2501,-7350.5001)">
+      <g
+         id="id8">
+        <rect
+           class="BoundingBox"
+           stroke="none"
+           fill="none"
+           x="11412"
+           y="11012"
+           width="5677"
+           height="1677"
+           id="rect239" />
+        <path
+           fill="none"
+           stroke="#828277"
+           stroke-width="176"
+           stroke-linejoin="round"
+           d="m 14250,12600 h -2750 v -1500 h 5500 v 1500 z"
+           id="path241" />
+        <text
+           class="SVGTextShape"
+           id="text251"><tspan
+             class="TextParagraph"
+             font-family="'Liberation Sans', sans-serif"
+             font-size="635px"
+             font-weight="700"
+             id="tspan249"><tspan
+               class="TextPosition"
+               x="12458"
+               y="12070"
+               id="tspan247"><tspan
+                 fill="#828277"
+                 stroke="none"
+                 style="white-space:pre"
+                 id="tspan243" /><tspan
+                 fill="#828277"
+                 stroke="none"
+                 style="white-space:pre"
+                 id="tspan245">Terbarukan</tspan></tspan></tspan></text>
+      </g>
     </g>
-  </g>
-  <g
-     class="com.sun.star.drawing.CustomShape"
-     id="g237"
-     transform="translate(-3000.2501,-7350.5001)">
     <g
-       id="id7">
-      <rect
-         class="BoundingBox"
-         stroke="none"
-         fill="none"
-         x="7412"
-         y="7512"
-         width="6177"
-         height="2177"
-         id="rect224"
-         style="display:inline" />
-      <path
-         fill="none"
-         stroke="#8db87c"
-         stroke-width="176"
-         stroke-linejoin="round"
-         d="M 10500,9600 H 7500 V 7600 h 6000 v 2000 z"
-         id="path226"
-         style="display:inline" />
-      <text
-         class="SVGTextShape"
-         id="text234"
-         style="display:inline"><tspan
-           class="TextParagraph"
-           font-family="'Liberation Sans', sans-serif"
-           font-size="635px"
-           font-weight="700"
-           id="tspan232"><tspan
-             class="TextPosition"
-             x="7820"
-             y="8820"
-             id="tspan230"><tspan
-               fill="#8db87c"
-               stroke="none"
-               style="white-space:pre"
-               id="tspan228">SUMBER ENERGI</tspan></tspan></tspan></text>
+       class="com.sun.star.drawing.CustomShape"
+       id="g237"
+       transform="translate(-3000.2501,-7350.5001)">
+      <g
+         id="id7">
+        <rect
+           class="BoundingBox"
+           stroke="none"
+           fill="none"
+           x="7412"
+           y="7512"
+           width="6177"
+           height="2177"
+           id="rect224"
+           style="display:inline" />
+        <path
+           fill="none"
+           stroke="#8db87c"
+           stroke-width="176"
+           stroke-linejoin="round"
+           d="M 10500,9600 H 7500 V 7600 h 6000 v 2000 z"
+           id="path226"
+           style="display:inline" />
+        <text
+           class="SVGTextShape"
+           id="text234"
+           style="display:inline"><tspan
+             class="TextParagraph"
+             font-family="'Liberation Sans', sans-serif"
+             font-size="635px"
+             font-weight="700"
+             id="tspan232"><tspan
+               class="TextPosition"
+               x="7820"
+               y="8820"
+               id="tspan230"><tspan
+                 fill="#8db87c"
+                 stroke="none"
+                 style="white-space:pre"
+                 id="tspan228">SUMBER ENERGI</tspan></tspan></tspan></text>
+      </g>
     </g>
   </g>
 </svg>
