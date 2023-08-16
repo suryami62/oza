@@ -116,6 +116,7 @@ module.exports = async function createConfigAsync() {
           anonymizeIP: false,
         },
       ],
+/**   
       [
         "@docusaurus/plugin-sitemap",
         {
@@ -125,6 +126,7 @@ module.exports = async function createConfigAsync() {
           filename: "sitemap.xml",
         },
       ],
+*/
       [
         "content-docs",
         /** @type {import('@docusaurus/plugin-content-docs').Options} */
