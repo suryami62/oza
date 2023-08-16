@@ -110,6 +110,22 @@ module.exports = async function createConfigAsync() {
 
     plugins : [
       [
+        "@docusaurus/plugin-google-gtag",
+        {
+          trackingID: "G-C682MNEKZK",
+          anonymizeIP: false,
+        },
+      ],
+      [
+        "@docusaurus/plugin-sitemap",
+        {
+          changefreq: "weekly",
+          priority: 0.5,
+          ignorePatterns: ["/tags/**", "/docs/**"],
+          filename: "sitemap.xml",
+        },
+      ],
+      [
         "content-docs",
         /** @type {import('@docusaurus/plugin-content-docs').Options} */
         {
