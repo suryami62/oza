@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+Disallow: /docs
+Disallow: /docs/
+Sitemap: https://oza.suryami62.my.id/sitemap.xml

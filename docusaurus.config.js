@@ -116,6 +116,12 @@ module.exports = async function createConfigAsync() {
           anonymizeIP: false,
         },
       ],
+      [
+        "@docusaurus/plugin-google-tag-manager",
+        {
+          containerId: "GTM-5DX2BTH5",
+        },
+      ],
 /**   
       [
         "@docusaurus/plugin-sitemap",
