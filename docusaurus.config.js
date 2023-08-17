@@ -34,7 +34,8 @@ module.exports = async function createConfigAsync() {
 
     themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+    (
+      {
       // Replace with your project's social card
       image: "img/oza-social-card.jpg",
       navbar: {
@@ -58,7 +59,7 @@ module.exports = async function createConfigAsync() {
             title: "Tentang",
             items: [
               {
-                html: "<a href=\"\" target=\"_blank\" rel=\"noreferrer noopener\" aria-label=\"Logo OZA\"> <img src=\"https://oza.suryami62.my.id/img/logo.svg\" alt=\"Logo OZA\" width=\"65\" /> </a>",
+                html: "<a href=\"\" rel=\"noreferrer noopener\" aria-label=\"Logo OZA\"> <img src=\"https://oza.suryami62.my.id/img/logo.svg\" alt=\"Logo OZA\" width=\"65\" /> </a>",
               },
             ],
           },
@@ -133,6 +134,10 @@ module.exports = async function createConfigAsync() {
         },
       ],
 */
+      [
+        "@gracefullight/docusaurus-plugin-cloudflare-analytics",
+        { token: "4d0983a1026b49ff9700fe84e6b74851" },
+      ],
       [
         "content-docs",
         /** @type {import('@docusaurus/plugin-content-docs').Options} */
