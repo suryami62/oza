@@ -19,6 +19,11 @@ module.exports = async function createConfigAsync() {
       defaultLocale: "id",
       locales: ["id"],
     },
+
+    markdown:{
+      mermaid: true,
+    },
+
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
 
@@ -31,6 +36,8 @@ module.exports = async function createConfigAsync() {
 
     // Set the production url of your site here
     url: "https://oza.suryami62.my.id",
+
+    themes: ["@docusaurus/theme-mermaid"],
 
     themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -90,6 +97,9 @@ module.exports = async function createConfigAsync() {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      mermaid: {
+        theme: {},
+      },
     }),
 
     presets: [
@@ -99,8 +109,6 @@ module.exports = async function createConfigAsync() {
         ({
           blog: {
             showReadingTime: false,
-            // Please change this to your repo.
-            // Remove this to remove the "edit this page" links.
           },
           theme: {
             customCss: require.resolve("./src/css/custom.css"),
@@ -115,12 +123,6 @@ module.exports = async function createConfigAsync() {
         {
           trackingID: "G-C682MNEKZK",
           anonymizeIP: false,
-        },
-      ],
-      [
-        "@docusaurus/plugin-google-tag-manager",
-        {
-          containerId: "GTM-5DX2BTH5",
         },
       ],
 /**   
