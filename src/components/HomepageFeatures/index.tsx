@@ -6,34 +6,33 @@ import styles from "./styles.module.css";
 type FeatureItem = {
   title: string;
   Svg: React.ComponentType<React.ComponentProps<"svg">>;
+  text: string;
   url: string;
 };
 
 const FeatureList: FeatureItem[] = [
   {
-    title: "Alat Peraga Energi Surya",
-    Svg: require("@site/src/components/HomepageFeatures/img/panel.svg").default,
+    title: "Sumber Energi Surya",
+    Svg: require("@site/src/components/HomepageFeatures/img/gambarPanel.svg").default,
+    text: "Telah diketahui bahwa sumber energi dibagi menjadi dua, yaitu sumber energi konvensional dan terbarukan. Saat ini, ada kekhawatiran tentang menipisnya ketersediaan energi konvensional karena penggunaan yang tidak efisien. Oleh karena itu, perlu dilakukan upaya untuk meningkatkan pengembangan dan pemanfaatan sumber energi terbarukan.",
     url: "/sumber-energi/",
-  },
-  {
-    title: "Segera",
-    Svg: require("@site/src/components/HomepageFeatures/img/segera.svg").default,
-    url: "",
   },
 ];
 
-function Feature({title, Svg, url}: FeatureItem) {
+function Feature({title, Svg, text, url}: FeatureItem) {
   return (
-    <div className={clsx("col col--4")}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+    <><div className={clsx("col col--6", styles.featureImage)}>
+          <Svg className={styles.featureSvg} role="img" />
       </div>
-      <div className="text--center padding-horiz--md">
-        <Link className="button button--secondary button--lg" to={url}>
-          <h3 className={styles.featuresTextButton}>{title}</h3>
-        </Link>
-      </div>
-    </div>
+      <div className={clsx("col col--6", styles.featureContent)}>
+        <h3 className={styles.featureTitle}>{title}</h3>
+        <p className={styles.featureText}>{text}</p>
+        <div className="text--center padding-horiz--md">
+          <Link className="button button--secondary button--lg" to={url}>
+            <h4 className={styles.featuresTextButton}>Selengkapnya</h4>
+          </Link>
+        </div>
+      </div></>
   );
 }
 

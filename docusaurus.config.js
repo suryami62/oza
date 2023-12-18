@@ -1,8 +1,7 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require("prism-react-renderer/themes/github");
-const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+import {themes as prismThemes} from "prism-react-renderer";
 
 module.exports = async function createConfigAsync() {
   return {
@@ -63,40 +62,50 @@ module.exports = async function createConfigAsync() {
         style: "dark",
         links: [
           {
-            title: "Tentang",
+            title: "OZA",
             items: [
               {
-                html: "<a href=\"\" rel=\"noreferrer noopener\" aria-label=\"Logo OZA\"> <img src=\"https://oza.suryami62.my.id/img/logo.svg\" alt=\"Logo OZA\" width=\"65\" /> </a>",
+                label: "Blog",
+                to: "/blog",
+              },
+              {
+                label: "Profil",
+                to: "/profil",
+              },
+              {
+                label: "Kontak",
+                href: "mailto:halo@suryami62.my.id",
               },
             ],
           },
           {
-            title: "Kontak",
+            title: "Dari",
             items: [
               {
-                label: "kontak@suryami62.my.id",
-                href: "mailto:kontak@suryami62.my.id",
-              },
-            ],
-          },
-          {
-            title: "Di Dukung Oleh",
-            items: [
-              {
-                html: "<a href=\"https://www.cloudflare.com\" target=\"_blank\" rel=\"noreferrer noopener\" aria-label=\"Diluncurkan oleh Cloudflare\"> <img src=\"https://oza.suryami62.my.id/img/cf_logo.svg\" alt=\"Diluncurkan oleh Cloudflare\" width=\"120\" /> </a>",
-              },
-              {
-                html: "<a href=\"https://docusaurus.io\" target=\"_blank\" rel=\"noreferrer noopener\" aria-label=\"Dikembangkan dengan Docusaurus\"> <img src=\"https://oza.suryami62.my.id/img/ds_logo.svg\" alt=\"Dikembangkan dengan Docusaurus\" width=\"65\" /> </a>",
+                html: ` <a href="https://suryami62.my.id" aria-label="suryami62" target="_blank">
+                          <img id="srmi62" src="/img/srmi62-bx.svg" alt="logo suryami62" height="75"/>
+                        </a>
+                        <img id="btg" src="/img/btg.svg" height="75"/>
+                        <a href="https://ustjogja.ac.id" aria-label="Universitas Sarjanawiyata Tamansiswa" target="_blank" rel="noreferrer noopener">
+                          <img id="ust" src="/img/ust_logo.png" alt="logo ust" height="75"/>
+                        </a>`
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://s.id/suryami62">suryami62</a>.`,
+        logo: {
+          alt: "Logo OZA",
+          src: "img/logoText.svg",
+          href: "/"
+        },
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://suryami62.my.id">suryami62</a>.`,
       },
+
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
       },
+
       mermaid: {
         theme: {},
       },
@@ -125,17 +134,6 @@ module.exports = async function createConfigAsync() {
           anonymizeIP: false,
         },
       ],
-/**   
-      [
-        "@docusaurus/plugin-sitemap",
-        {
-          changefreq: "weekly",
-          priority: 0.5,
-          ignorePatterns: ["/tags/**", "/docs/**"],
-          filename: "sitemap.xml",
-        },
-      ],
-*/
       [
         "@gracefullight/docusaurus-plugin-cloudflare-analytics",
         { token: "4d0983a1026b49ff9700fe84e6b74851" },

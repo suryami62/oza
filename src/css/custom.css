@@ -34,3 +34,43 @@ article > div > div > svg {
   margin-left: auto;
   margin-right: auto;
 }
+
+.hero__title {
+  color: rgb(0,255,0);
+}
+
+@media (max-width: 996px) {
+  body .footer__links {
+    width: 100%;
+  }
+
+  body .footer__bottom {
+    width: 100%;
+  }
+
+  body .footer__bottom > div {
+    text-align: center;
+  }
+}
+
+.footer__bottom {
+  width: 25%;
+}
+
+.footer__bottom > div {
+  text-align: left;
+}
+
+.footer__copyright {
+  font-size: .8em;
+  text-align: left;
+}
+
+.footer__links {
+  width: 75%;
+  float: right;
+}
+
+.footer__logo {
+  max-width: 125px;
+}
