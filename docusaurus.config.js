@@ -70,7 +70,7 @@ module.exports = async function createConfigAsync() {
               },
               {
                 label: "Profil",
-                to: "/profil",
+                to: "/",
               },
               {
                 label: "Kontak",
